@@ -1,0 +1,7 @@
+private/*
+!private/.gitkeep
+__pycache__/
+*.pyc
+.env
+.env.local
+.DS_Store
