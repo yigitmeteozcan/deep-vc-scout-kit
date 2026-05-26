@@ -1,7 +1,7 @@
 # deep-vc-scout-kit
 
 **Stop restarting your VC scouting brain in every new Deep Research chat.**
-test
+
 ---
 
 ## The Problem
